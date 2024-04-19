@@ -1,0 +1,29 @@
+body {
+    
+    background: rgb(148, 199, 203);
+}
+
+.contenedor{
+	
+    background: white;
+	width: 640px;
+	height: auto;
+	margin: auto;
+}
+
+h1{text-align: center;}
+
+.numero,
+.numero2,
+.numero3 {
+	
+	display: flex;
+	justify-content:space-between;}
+
+	.foto2 img,
+	.foto3 img
+	{width: 640px;}
+
+
+
+
