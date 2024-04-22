@@ -2,27 +2,22 @@ body {
     
     background: rgb(148, 199, 203);
 }
+.cabeza-foto {
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;}
 
-.contenedor{
+.foto{
 	
     background: white;
 	width: 640px;
 	height: auto;
 	margin: auto;
+	margin-bottom: 20px;
 }
-
 h1{text-align: center;}
 
-.numero,
-.numero2,
-.numero3 {
-	
-	display: flex;
-	justify-content:space-between;}
-
-	.foto2 img,
-	.foto3 img
-	{width: 640px;}
+img{width: 640px;}
 
 
 
